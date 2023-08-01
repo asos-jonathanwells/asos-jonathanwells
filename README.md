@@ -11,7 +11,7 @@ My name is Jon.  I'm a Lead Software Engineer on the Browse Platform!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@ My name is Jon.  I'm a Lead Software Engineer on the Browse Platform!
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asos-jonathanwells&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asos-jonathanwells&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
