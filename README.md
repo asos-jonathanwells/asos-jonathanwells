@@ -5,9 +5,14 @@ My name is Jon.  I'm a Lead Software Engineer on the Browse Platform!
 --- 
 
 ### 💬 Ask me about
-- Category API
-- Navigation API
-- Search API
+- Category
+  - Category API
+  - PLP Manager
+  - Faceted Navigation
+  - Category Curation
+- Navigation
+- Search
+- Metrics
 
 ---
 
@@ -19,10 +24,3 @@ My name is Jon.  I'm a Lead Software Engineer on the Browse Platform!
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asos-jonathanwells&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asos-jonathanwells&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
