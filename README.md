@@ -1,17 +1,17 @@
 ### Hi there 👋
-My name is Jon.  I'm a Lead Software Engineer on the Browse Platform!
+My name is Jon. I'm a Staff Engineering Lead in the Search Strategic Focus. The Search Strategic Focus consists of two product development teams (PDTs), Mulder and Scully, named after two highly skilled detectives :detective::detective::alien:. I lead the Scully PDT.
+
 😄 My pronouns are he/him.
 
 --- 
 
 ### 💬 Ask me about
+- Search
 - Category
-  - Category API
   - PLP Manager
   - Faceted Navigation
   - Category Curation
 - Navigation
-- Search
 - Metrics
 
 ---
